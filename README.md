@@ -33,9 +33,6 @@ Add the API key to your notebook secrets.
 
 Run the cells step by step to experiment with translation, parsing, and summarization.
 
-📂 Notebook
-
-Open the notebook directly in Colab:
 
 🔮 Future Work
 
